@@ -1,0 +1,10 @@
+D:\Projects\PWDGen-root\FontBox\fontbox\fontbox\bin\Debug\fontbox.dll
+D:\Projects\PWDGen-root\FontBox\fontbox\fontbox\bin\Debug\fontbox.pdb
+D:\Projects\PWDGen-root\FontBox\fontbox\fontbox\obj\Debug\fontbox.csprojResolveAssemblyReference.cache
+D:\Projects\PWDGen-root\FontBox\fontbox\fontbox\obj\Debug\fontbox.dll
+D:\Projects\PWDGen-root\FontBox\fontbox\fontbox\obj\Debug\fontbox.pdb
+D:\Projects\PWDGen-root\FontBox\fontbox\bin\Debug\fontbox.dll
+D:\Projects\PWDGen-root\FontBox\fontbox\bin\Debug\fontbox.pdb
+D:\Projects\PWDGen-root\FontBox\fontbox\obj\Debug\fontbox.csprojResolveAssemblyReference.cache
+D:\Projects\PWDGen-root\FontBox\fontbox\obj\Debug\fontbox.dll
+D:\Projects\PWDGen-root\FontBox\fontbox\obj\Debug\fontbox.pdb
